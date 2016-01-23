@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50" started-at="2016-01-20T16:54:33Z" finished-at="2016-01-20T16:54:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50" started-at="2016-01-20T16:54:33Z" finished-at="2016-01-20T16:54:33Z">
+      <class name="example.TestEmployeeDetails">
+        <test-method status="PASS" signature="testCalculateAppriasal()[pri:0, instance:example.TestEmployeeDetails@6adca536]" name="testCalculateAppriasal" duration-ms="16" started-at="2016-01-20T22:24:33Z" finished-at="2016-01-20T22:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateAppriasal -->
+        <test-method status="PASS" signature="testCalculateYearlySalary()[pri:0, instance:example.TestEmployeeDetails@6adca536]" name="testCalculateYearlySalary" duration-ms="1" started-at="2016-01-20T22:24:33Z" finished-at="2016-01-20T22:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateYearlySalary -->
+      </class> <!-- example.TestEmployeeDetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
